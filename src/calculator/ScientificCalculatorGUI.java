@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * This class provides a GUI for calculating the arccosine of a number.
+ * This class provides a GUi for calculating the arccosine of a number.
  * The GUI includes fields for user input, a button to perform the calculation,
  * and labels to display the results and any errors.
  */
