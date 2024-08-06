@@ -123,7 +123,6 @@ public final class ScientificCalculatorGUI {
         panel.add(userText, gbc);
 
         // Calculate button
-        final JButton calculateButton = new JButton(BUTTON_TEXT);
         calculateButton.setFont(new Font(FONT_FAMILY, Font.BOLD, 14));
         calculateButton.setForeground(Color.WHITE);
         calculateButton.setBackground(Color.BLUE);
