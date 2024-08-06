@@ -127,8 +127,6 @@ public final class ScientificCalculatorGUI {
         calculateButton.setFont(new Font(FONT_FAMILY, Font.BOLD, 14));
         calculateButton.setForeground(Color.WHITE);
         calculateButton.setBackground(Color.BLUE);
-        calculateButton.setMnemonic('C'); // Alt+C will click this button
-        calculateButton.setToolTipText("Click to calculate the arccosine of the entered value.");
         gbc.gridx = 1;
         gbc.gridy = 3;
         gbc.fill = GridBagConstraints.NONE;
