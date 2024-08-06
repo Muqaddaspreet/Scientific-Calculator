@@ -1,4 +1,4 @@
-package calculator;
+package main.java.calculator;
 
 /**
  * This class holds the version information of the application.
