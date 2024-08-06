@@ -8,9 +8,9 @@ public final class Version {
     /** The major version number. */
     public static final int MAJOR = 2;
     /** The minor version number. */
-    public static final int MINOR = 1;
+    public static final int MINOR = 2;
     /** The patch version number. */
-    public static final int PATCH = 2;
+    public static final int PATCH = 3;
 
     /**
      * Private constructor to prevent instantiation.
