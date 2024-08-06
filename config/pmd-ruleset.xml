@@ -9,6 +9,7 @@ http://pmd.sourceforge.net/ruleset/2.0.0 ">
         Custom ruleset using Google Java Style Guide rules.
     </description>
 
+    <rule ref="category/java/bestpractices.xml"/>
     <rule ref="category/java/codestyle.xml"/>
     <rule ref="category/java/design.xml"/>
     <rule ref="category/java/errorprone.xml"/>
