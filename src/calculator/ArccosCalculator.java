@@ -28,6 +28,8 @@ public final class ArccosCalculator {
     }
 
     /**
+     * Calculates the arcsine of a number using the Taylor Series expansion.
+     *
      * @param input the input value.
      * @return the arcsine of the input value.
      */
