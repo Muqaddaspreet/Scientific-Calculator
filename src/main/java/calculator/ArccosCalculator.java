@@ -1,4 +1,4 @@
-package calculator;
+package main.java.calculator;
 
 /**
  * This class provides methods to calculate the arccosine and arcsine of a number.
