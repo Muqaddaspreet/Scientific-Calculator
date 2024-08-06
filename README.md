@@ -50,7 +50,7 @@ This project provides a graphical user interface (GUI) for calculating the arcco
 - Click the "Calculate" button.
 - The result will be displayed below the button.
 
-##Running Tests
+## Running Tests
 
 1. **Run the unit tests using Maven:**
 
@@ -62,7 +62,7 @@ This project provides a graphical user interface (GUI) for calculating the arcco
 - Navigate to src/test/java/calculator/ArccosCalculatorTest.java.
 - Right-click on the file and select Run 'ArccosCalculatorTest'.
 
-##Project Structure
+## Project Structure
 
    ```
    my-maven-project
@@ -79,7 +79,7 @@ This project provides a graphical user interface (GUI) for calculating the arcco
    |               |-- ArccosCalculatorTest.java
    ```
  
-##Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -89,10 +89,10 @@ Contributions are welcome! Please follow these steps to contribute:
 - Push to the branch: git push origin feature/your-feature.
 - Open a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Acknowledgements
+## Acknowledgements
 - JUnit 5
 - Maven
 - IntelliJ IDEA
