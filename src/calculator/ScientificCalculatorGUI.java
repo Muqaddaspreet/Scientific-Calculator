@@ -54,7 +54,10 @@ public final class ScientificCalculatorGUI {
      * @param args command line arguments.
      */
     public static void main(final String[] args) {
-
+        // Log version information if log level is enabled
+        if (LOGGER.isLoggable(Level.INFO)) {
+            LOGGER.log(Level.INFO, "ScientificCalculator Version: {0}", Version.getVersion());
+        }
 
         // Create the frame
         final JFrame frame = new JFrame(FRAME_TITLE);
